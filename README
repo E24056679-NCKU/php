@@ -1,0 +1,13 @@
+1. How to Pass Python Script Arguments
+    In index.php, user can choose either Text or Image to upload as argument
+      then php will execute command "python3 scriptname arg1 arg2 ..."
+    If the argument is an Image, php will download the image, then pass it's filepath as argument
+
+2. How to Get Result of Python Script
+    Haven't been implemented
+    Maybe save in a file
+
+3. Identify Users
+    Use php session to keep track on each user's action
+
+
